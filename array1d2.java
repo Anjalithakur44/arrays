@@ -1,3 +1,4 @@
+//calculating the max element in the array
 import java.util.*;
 import java.io.*;
 public class array1d2 {
