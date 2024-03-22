@@ -16,7 +16,7 @@ public class array2d3 {
                 a[i][j]=sc.nextInt();
             }
         }
-        //logic for printing elements above secondary diagonal for square matrix
+        //logic for printing elements on primary and secondary diagonal for square matrix
         for(i=0;i<m;i++)
         {
             for(j=0;j<n;j++)
